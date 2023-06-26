@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrestaurantapp=self.webpackChunkrestaurantapp||[]).push([[375],{9375:function(a,r,n){n.r(r);n(2791);var e=n(3840),s=n(184);r.default=function(a){var r=a.photoURL,n=a.onClick;return(0,s.jsx)(e.E.img,{whileTap:{scale:.6},src:r,alt:"Avatar",className:"w-10 h-10 min-w-[40px] min-h-[10px] drop-shadow-xl cursor-pointer rounded-full ",onClick:n})}}}]);
+//# sourceMappingURL=375.3d66e8c6.chunk.js.map
